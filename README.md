@@ -13,6 +13,7 @@
 #### 앱의 목적 : 대중교통 이용시 잠드는 사람들을 깨워주는 알람어플
 
  동작메커니즘
+ 
 1.Google Maps Android API (Application Programming Interface) 사용
  --> API키를 받아서 사용하였습니다.
  
