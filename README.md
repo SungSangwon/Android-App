@@ -5,9 +5,10 @@
 
 * #### 코드참조 : https://webnautes.tistory.com/category/Android/Google%20Map
 
+* * *
 >  ## 프로젝트 정리
 
-* * *
+
 
 * ### 앱 이름 : 상인역에서 깨워줘 !
 * #### 앱의 목적 : 대중교통 이용시 잠드는 사람들을 깨워주는 알람어플
