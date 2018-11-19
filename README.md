@@ -15,10 +15,13 @@
  동작메커니즘
 1.Google Maps Android API (Application Programming Interface) 사용
  --> API키를 받아서 사용하였습니다.
+ 
 2.위치정보 시스템 GPS를 이용하여 현재위치를 계속해서 잡아줍니다.
-3.마커(목적지)추가시 현재위치와 마커(목적지)사이의 거리를 
-ComputeDistanceBetween함수를 사용하여계산합니다.
+
+3.마커(목적지)추가시 현재위치와 마커(목적지)사이의 거리를 ComputeDistanceBetween함수를 사용하여계산합니다.
+
 4.내가 지정한 거리 (ex. 거리를 500m로 지정) 안으로 들어오면 휴대폰으로 경보음과 진동이 울리며 이용자에게 도착이 임박했음을 알려줍니다.
+
 #### 결과물  ↓↓↓↓
 #### 1.로딩화면
 #### 2.설명화면(main activity)
