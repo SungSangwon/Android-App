@@ -716,4 +716,4 @@ public class Activity_googlemap extends AppCompatActivity
     }
 
 
-}
+} 
