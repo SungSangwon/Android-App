@@ -11,4 +11,4 @@
         android:layout_height="wrap_content"
         android:src="@drawable/loading2" />
 
-</LinearLayout>
+</LinearLayout> 
