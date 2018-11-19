@@ -26,8 +26,7 @@
 #### 결과물  ↓↓↓↓
 #### 1.로딩화면
 ![default](https://user-images.githubusercontent.com/44973398/48718124-206e9880-ec5e-11e8-8d86-1fe15bd2934e.jpg)
-
-
-#### 2.설명화면(main activity)
-#### 3.구글맵을 이용하여 목적지와의 거리측정중
-
+#### 2.구글맵을 이용하여 목적지와의 거리측정중
+![default](https://user-images.githubusercontent.com/44973398/48718230-4a27bf80-ec5e-11e8-99df-a06a1a9d65ec.jpg)
+#### 3.목적지 도착시 알람과 진동이 울리는 모습
+![default](https://user-images.githubusercontent.com/44973398/48718240-5449be00-ec5e-11e8-9d20-6b38e9e3760e.jpg)
