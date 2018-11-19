@@ -5,8 +5,8 @@
 
 #### 코드참조 : https://webnautes.tistory.com/category/Android/Google%20Map
 
-> List ## 프로젝트 정리
-
+>  ## 프로젝트 정리
+List
 * * *
 
 ### 앱 이름 : 상인역에서 깨워줘 !
