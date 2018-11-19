@@ -15,6 +15,8 @@ public class activitiy_loading  extends Activity {
         startLoading();
     }
 
+    //startactivity를 사용하여 처음 액티비티화면을 activitiy_loading으로 지정한뒤 2초뒤에 MainActivity로 Intent되게 지정해준다.
+    
     private void startLoading() {
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
