@@ -25,6 +25,7 @@
 
 #### 결과물  ↓↓↓↓
 #### 1.로딩화면
+![default](https://user-images.githubusercontent.com/44973398/48718124-206e9880-ec5e-11e8-8d86-1fe15bd2934e.jpg)
 
 
 #### 2.설명화면(main activity)
