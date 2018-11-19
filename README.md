@@ -5,7 +5,7 @@
 
 #### 코드참조 : https://webnautes.tistory.com/category/Android/Google%20Map
 
-> ## 프로젝트 정리
+> List ## 프로젝트 정리
 
 * * *
 
@@ -23,7 +23,7 @@
 
 4.내가 지정한 거리 (ex. 거리를 500m로 지정) 안으로 들어오면 휴대폰으로 경보음과 진동이 울리며 이용자에게 도착이 임박했음을 알려줍니다.
 
-> #### 결과물  ↓↓↓↓
+> #### 결과물
 #### 1.로딩화면
 ![default](https://user-images.githubusercontent.com/44973398/48718124-206e9880-ec5e-11e8-8d86-1fe15bd2934e.jpg)
 #### 2.구글맵을 이용하여 목적지와의 거리측정중
