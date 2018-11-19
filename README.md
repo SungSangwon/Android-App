@@ -6,13 +6,13 @@
 #### 코드참조 : https://webnautes.tistory.com/category/Android/Google%20Map
 
 >  ## 프로젝트 정리
-List
+
 * * *
 
 ### 앱 이름 : 상인역에서 깨워줘 !
 #### 앱의 목적 : 대중교통 이용시 잠드는 사람들을 깨워주는 알람어플
 
->동작메커니즘
+> *동작메커니즘
  
 1.Google Maps Android API (Application Programming Interface) 사용
  --> API키를 받아서 사용하였습니다.
