@@ -46,6 +46,15 @@
 ![default](https://user-images.githubusercontent.com/44973398/48718124-206e9880-ec5e-11e8-8d86-1fe15bd2934e.jpg)
 * #### 구글맵을 이용하여 목적지와의 거리측정중
 ![default](https://user-images.githubusercontent.com/44973398/48718230-4a27bf80-ec5e-11e8-99df-a06a1a9d65ec.jpg)
+
+* #### 거리측정하는 코드
+![default](https://user-images.githubusercontent.com/44973398/48901299-4aab9a80-ee98-11e8-851d-b537de0fd912.PNG)
+
+* #### 설정범위 안에 들어왔을때의 코드
+![default](https://user-images.githubusercontent.com/44973398/48901319-66af3c00-ee98-11e8-89e8-484e12af3781.PNG)
+
 * #### 목적지 도착시 알람과 진동이 울리는 모습
 ![default](https://user-images.githubusercontent.com/44973398/48718240-5449be00-ec5e-11e8-9d20-6b38e9e3760e.jpg)
- 
+
+* #### GPS활성화 여부 판단 코드
+![gps](https://user-images.githubusercontent.com/44973398/48901335-7a5aa280-ee98-11e8-88f7-f2b1621b6f6f.PNG)
