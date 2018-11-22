@@ -24,6 +24,23 @@
 
 4.내가 지정한 거리 (ex. 거리를 500m로 지정) 안으로 들어오면 휴대폰으로 경보음과 진동이 울리며 이용자에게 도착이 임박했음을 알려줍니다.
 
+* * *
+
+* ### 프로젝트에 사용한 주요함수
+함수명 | 의미 |
+---|:---:
+`Handler` | Main Thread의 MessageQueue에 작업을 전달하는 객체
+`Intent` | 다른 액티비티를 띄우거나 기능을 동작시키기 위한 수단
+`setContentView` | xml 파일을 읽어 전체화면을 보여주는 메소드
+`TextView` | 안드로이드 UI를 구성함에 있어 화면에 텍스트를 표시하는 기능.
+`Toast.makeText` | 토스트 메세지라고 불리는 팝업을 띄움.
+`MediaPlayer` | 오디오와 비디오를 가져오고 디코딩하고 재생하는 것을 최소한의 설정으로 가능하게 해주는 객체
+`Marker` | 구글맵에서 마커를 생성할수 있게 해주는 객체
+`LocationRequest` | 안드로이드 위치기반서비스를 사용하기 위해 필요한 class
+`Vibrator` | 안드로이드의 진동기능을 사용하기 위해 필요한 객체
+`setOnClickListener` | 안드로이드 위젯의 이벤트를 처리하는 방법 중 한가지
+
+
 > #### 결과물
 * ### 로딩화면
 ![default](https://user-images.githubusercontent.com/44973398/48718124-206e9880-ec5e-11e8-8d86-1fe15bd2934e.jpg)
